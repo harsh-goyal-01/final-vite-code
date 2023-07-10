@@ -1,0 +1,14 @@
+[
+  {
+    "id": "US",
+    "defaultMessage": "Date (in US format):"
+  },
+  {
+    "id": "UK",
+    "defaultMessage": "Date (in UK format):"
+  },
+  {
+    "id": "Spanish",
+    "defaultMessage": "Date (in Spanish format):"
+  }
+]

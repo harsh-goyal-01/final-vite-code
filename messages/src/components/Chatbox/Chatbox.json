@@ -1,0 +1,10 @@
+[
+  {
+    "id": "heading",
+    "defaultMessage": "Chat App"
+  },
+  {
+    "id": "loading",
+    "defaultMessage": "loading..."
+  }
+]

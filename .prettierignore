@@ -1,0 +1,6 @@
+.netlify
+
+build
+node_modules
+
+src/widget/sample

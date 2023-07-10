@@ -1,0 +1,11 @@
+{
+    "sendButton": "Enviar",
+    "heading": "Aplicación de chat",
+    "loading": "cargando...",
+    "US":"Fecha (en formato estadounidense):",
+    "UK" : "Fecha (en formato del Reino Unido):",
+    "Spanish": "Fecha (en formato español):",
+    "useridUS": "User_id En formato de EE. UU.:",
+    "src.components.Form.placeholder": "Ingrese su mensaje",
+    "arialabel": "Envía tu mensaje"
+}

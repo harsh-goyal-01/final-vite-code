@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"],
+      "@chat-app/*": ["src/chat-app/*"],
+      "@teams-app/*": ["src/teams-app/*"],
+      "@proactive-prompt-app/*": ["src/proactive-prompt-app/*"],
+      "@utils/*": ["src/utils/*"],
+      "@locales/*": ["src/locales/*"],
+      "@sdk/*": ["src/sdk/*"],
+      "@typings/*": ["src/typings/*"],
+      "@hooks/*": ["src/hooks/*"],
+      "@stream-app/*": ["src/stream-app/*"]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "presets": [
+    [
+      "@sprinklr/babel-preset-react-app"
+    ]
+  ],
+  "plugins": [
+    [
+      "react-intl-auto",
+      {
+        "removePrefix": true,
+        "includeExportName": false
+      }
+    ],
+    ["react-intl", {
+      "messagesDir": "./temp-locales"
+    }]
+  ]
+}

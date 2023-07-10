@@ -1,0 +1,11 @@
+{
+    "sendButton": "Send",
+    "heading": "Chat App",
+    "loading": "loading...",
+    "US":"Date (in US format):",
+    "UK" : "Date (in UK format):",
+    "Spanish": "Date (in Spanish format):",
+    "useridUS": "User_id In US format:",
+    "arialabel": "Send Your Message",
+    "src.components.Form.placeholder": "Enter Your Message"
+}
